@@ -1,5 +1,4 @@
 # C++-Minifier
-==========
 
 This is a simple minifier that I was able organize into a multiple files for modularity and redeadbility than a large file.
 
